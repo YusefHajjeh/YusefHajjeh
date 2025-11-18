@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m an aspiring software engineer, data analyst, or AI developer, with strong skills in full-stack development. I enjoy building complete solutions—from front-end interfaces to back-end logic—and I love turning complex problems into clean, efficient systems.<br><br>I’m constantly learning, improving, and exploring new technologies across software, data, and AI. My goal is to create projects that challenge me, showcase my abilities, and make a real impact in the tech world.
+I’m an aspiring software engineer, data analyst, and AI developer, with strong skills in full-stack development. I enjoy building complete solutions—from front-end interfaces to back-end logic—and I love turning complex problems into clean, efficient systems.<br><br>I’m constantly learning, improving, and exploring new technologies across software, data, and AI. My goal is to create projects that challenge me, showcase my abilities, and make a real impact in the tech world.
 
 
 ## 🌐 Socials:
