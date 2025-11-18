@@ -1,6 +1,8 @@
-# 💫 About Me:
-I’m an aspiring software engineer, data analyst, or AI developer, with strong skills in full-stack development. I enjoy building complete solutions—from front-end interfaces to back-end logic—and I love turning complex problems into clean, efficient systems.<br><br>I’m constantly learning, improving, and exploring new technologies across software, data, and AI. My goal is to create projects that challenge me, showcase my abilities, and make a real impact in the tech world.
-
+# 💫 Hi, I'm Yusef:
+👨🏻‍💻 Aspiring software engineer, data analyst, or AI developer, with strong skills in full-stack development.
+👨🏻‍🎓 Studied Computer Science at the University of Memphis, Memphis TN
+🧠 I enjoy building complete solutions—from front-end interfaces to back-end logic—and I love turning complex problems into clean, efficient systems.
+💭 I’m actively seeking opportunities to grow professionally and apply my skills in real-world projects. My goal is to join a company where I can contribute, learn, and continue building impactful software, data, and AI solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusef-hajjeh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hajjehyusef@gmail.com) 
