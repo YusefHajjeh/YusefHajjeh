@@ -1,7 +1,7 @@
 # 💫 Hi, I'm Yusef:
-👨🏻‍💻 Aspiring software engineer, data analyst, or AI developer, with strong skills in full-stack development.
-👨🏻‍🎓 Studied Computer Science at the University of Memphis, Memphis TN
-🧠 I enjoy building complete solutions—from front-end interfaces to back-end logic—and I love turning complex problems into clean, efficient systems.
+👨🏻‍💻 Aspiring software engineer, data analyst, or AI developer, with strong skills in full-stack development.<br/>
+👨🏻‍🎓 Studied Computer Science at the University of Memphis, Memphis TN<br/>
+🧠 I enjoy building complete solutions—from front-end interfaces to back-end logic—and I love turning complex problems into clean, efficient systems.<br/>
 💭 I’m actively seeking opportunities to grow professionally and apply my skills in real-world projects. My goal is to join a company where I can contribute, learn, and continue building impactful software, data, and AI solutions.
 
 ## 🌐 Socials:
